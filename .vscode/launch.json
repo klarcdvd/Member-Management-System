@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MainWindow",
+            "request": "launch",
+            "mainClass": "view.MainWindow",
+            "projectName": "Member-Management-System_eb34147d"
+        },
+        {
+            "type": "java",
+            "name": "MemberAddForm",
+            "request": "launch",
+            "mainClass": "view.MemberAddForm",
+            "projectName": "Member-Management-System_eb34147d"
+        },
+        {
+            "type": "java",
+            "name": "SearchMember",
+            "request": "launch",
+            "mainClass": "view.SearchMember",
+            "projectName": "Member-Management-System_eb34147d"
+        },
+        {
+            "type": "java",
+            "name": "ViewAllSelectedMembersByDepartment",
+            "request": "launch",
+            "mainClass": "view.ViewAllSelectedMembersByDepartment",
+            "projectName": "Member-Management-System_eb34147d"
+        },
+        {
+            "type": "java",
+            "name": "ViewAllSelectedMembersByFaculty",
+            "request": "launch",
+            "mainClass": "view.ViewAllSelectedMembersByFaculty",
+            "projectName": "Member-Management-System_eb34147d"
+        },
+        {
+            "type": "java",
+            "name": "WelcomeWindow",
+            "request": "launch",
+            "mainClass": "view.WelcomeWindow",
+            "projectName": "Member-Management-System_eb34147d"
+        }
+    ]
+}
